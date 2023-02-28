@@ -1,2 +1,3 @@
+## ( ͡° ͜ʖ ͡°)
 # Moscow-Aviation-Institute
-What I did while studying
+Hello! I'm Gleb and I wonder why you decided to look inside this repository
